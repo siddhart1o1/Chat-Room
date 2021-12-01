@@ -1,0 +1,17 @@
+<!DOCTYPE html> 
+<html>     
+    <head> 
+        <title>Example of HTML Frames Using col Attribute</title> 
+    </head> 
+          
+    <frameset cols = "30%, 40%, 30%"> 
+        <frame name = "top" src =  
+        "2.jpg"> 
+        <frame name = "main" src =  
+        "3.jpg"> 
+        <frame name = "bottom" src =  
+        "1.jfif">         
+        <noframes> 
+        </noframes> 
+    </frameset> 
+</html>       
